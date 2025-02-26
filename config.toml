@@ -1,4 +1,4 @@
-baseURL = 'https://gchen9405.github.io/hugo-mock-landing-page/'
+baseURL = 'https://gchen9405.github.io/hugo-mock-landing-page-autodeployed/'
 title = "FitPix: AI-Powered Personal Styling App"
 author = "Gordon Chen"
 copyright = "Gordon Chen"
