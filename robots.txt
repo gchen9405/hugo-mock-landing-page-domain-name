@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: https://gchen9405.github.io/hugo-mock-landing-page-domain-name/sitemap.xml
+Sitemap: www.gordonc1.boats/sitemap.xml
